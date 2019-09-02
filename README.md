@@ -1,4 +1,4 @@
-# Running the microsite
+# Run micro-site
 Start the client
 1. npm install
 2. npm run serve
@@ -13,7 +13,7 @@ Start mysql database locally
 1. create database data
 2. create table using sql script
 
-# Visiting the microsite
+# Visit
 http://localhost:8080/chart  
 http://localhost:8080/entry  
 http://localhost:8080/delete  
