@@ -12,6 +12,6 @@ Start mysql database locally
 2. create table using sql script
 
 # Visiting the microsite
-http://localhost:8080/chart
-http://localhost:8080/entry
-http://localhost:8080/delete
+http://localhost:8080/chart  
+http://localhost:8080/entry  
+http://localhost:8080/delete  
